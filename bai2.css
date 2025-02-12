@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.all{
+    padding: 20px;
+}
+
+.table{
+    border: 1px solid white;
+    width: 240px;
+    background-color: white ;   
+    border-radius: 5px;
+    height: 280px;
+}
+
+input{
+    border-radius: 4px;
+    height: 25px;
+    border: solid 1px gray;
+    width: 200px;
+}
+
+button{
+    background-color: rgba(86, 86, 255, 0.903);
+    width: 200px;
+    height: 30px;
+    border-radius: 4px;
+    color: white;
+    font-weight: 700;
+    border: none;
+    
+}
+
+body{
+    background-color: rgb(208, 208, 208);
+}
+
+.body{
+    padding-left: 20px;
+}
+
+h2{
+    text-align: center;
+    padding-top: 15px;
+}
